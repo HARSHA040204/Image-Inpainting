@@ -38,3 +38,9 @@ Ensure the following libraries are installed to run the project:
 - The Natural Images Dataset by Prasun Roy on Kaggle.
 - Inspirations and foundational concepts drawn from academic papers and existing implementations in image inpainting.
 
+## Group Members:
+- V Sai Sumanth
+- D Veera Harsha Vardhan Reddy
+
+Feel free to contact for any querys 
+dveeraharshavardhanreddy@gmail.com
